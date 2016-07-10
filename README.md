@@ -1,14 +1,19 @@
-# 7dtd-ServerTools
+# 7dtd-ServerTools 3.2 with Shutdown Timer
 Server tools for 7 days to die dedicated servers<br>
 
+Original ServerTools 3.2 by Dmustanger https://github.com/dmustanger/7dtd-ServerTools/releases<br>
+
 # Installation
-Go to https://github.com/dmustanger/7dtd-ServerTools/releases<br>
+
 Download and extract the files.<br>
 Copy the Mods folder to the root directory of your sever.<br>
 Start the server. The mod will auto create the config file in the game save directory. Enable each part of the mod you want via ..\your game save directory\ServerTools\ServerToolsConfig.xml<br>
 Once a module is enabled if it has a config it will auto create them in the ServerTools folder.<br>
 
-# Current Features
+#Added Feature
+/shutdown starts a 10 minute timer that displays in chat each whole minute then the last 30 seconds, 10 seconds, and then 5,4,3,2,1.
+
+# Original Features
 Custom chat commands with custom color. Add your own commands via config.<br>
 /Gimme with adjustable timer and items via config.<br>
 /Killme with adjustable timer via config.<br>
