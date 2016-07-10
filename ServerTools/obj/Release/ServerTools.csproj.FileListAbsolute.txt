@@ -6,3 +6,7 @@ C:\Users\richa\Documents\GitHub\7dtd-ServerTools\bin\Mods\ServerTools\ModInfo.xm
 C:\Users\richa\Documents\GitHub\7dtd-ServerTools\bin\Mods\ServerTools\ServerTools.dll
 C:\Users\richa\Documents\GitHub\7dtd-ServerTools\ServerTools\obj\Release\ServerTools.csprojResolveAssemblyReference.cache
 C:\Users\richa\Documents\GitHub\7dtd-ServerTools\ServerTools\obj\Release\ServerTools.dll
+C:\Users\Allan\Documents\GitHub\ServerTools3.2withShutdownTimer\bin\Mods\ServerTools\ModInfo.xml
+C:\Users\Allan\Documents\GitHub\ServerTools3.2withShutdownTimer\bin\Mods\ServerTools\ServerTools.dll
+C:\Users\Allan\Documents\GitHub\ServerTools3.2withShutdownTimer\ServerTools\obj\Release\ServerTools.csprojResolveAssemblyReference.cache
+C:\Users\Allan\Documents\GitHub\ServerTools3.2withShutdownTimer\ServerTools\obj\Release\ServerTools.dll
